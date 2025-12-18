@@ -1,6 +1,6 @@
-# Azure Migrate VM Inventory Generator
+# VM Inventory Generator
 
-A bash script that generates a CSV inventory of Azure Virtual Machines in the format required by [Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import) for import-based assessments.
+A bash script that generates a CSV inventory of Azure Virtual Machines 
 
 ## What it does
 
