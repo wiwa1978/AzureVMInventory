@@ -176,14 +176,6 @@ The log file includes:
 - **WARN** - Non-fatal issues (missing data, fallbacks used)
 - **ERROR** - Failures that prevent processing
 
-## License
-
-## References
-
-- [Azure Migrate: Import servers using CSV](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import)
-- [Azure Migrate CSV template](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-import#prepare-the-csv)
-- [VM Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview)
-
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
